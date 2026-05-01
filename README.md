@@ -1,4 +1,4 @@
-# 🌍 DataMapWales AI Planning Assistant (Prototype) BY Sadab 
+# DataMapWales AI Planning Assistant (Prototype) BY Sadab 
 
 A **geospatial decision-support system** that simulates how planning authorities assess land suitability by analyzing environmental and legal constraints.
 
@@ -6,13 +6,13 @@ This project demonstrates how platforms similar to **DataMapWales** can automate
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 https://geoproject-csbewcr39rhc7d37yvwmf2.streamlit.app
+https://geoproject-csbewcr39rhc7d37yvwmf2.streamlit.app
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 Planning departments often spend significant time manually checking whether a proposed development site is affected by:
 
@@ -25,9 +25,9 @@ This project explores how that process can be **automated and standardized** usi
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
-### 🗺️ Interactive Map Interface
+### Interactive Map Interface
 
 * Built using Folium
 * Supports:
@@ -39,7 +39,7 @@ This project explores how that process can be **automated and standardized** usi
 
 ---
 
-### 📂 GeoJSON Data Integration
+### GeoJSON Data Integration
 
 * Upload custom GeoJSON datasets
 * Supports standard geospatial formats used by government platforms
@@ -47,7 +47,7 @@ This project explores how that process can be **automated and standardized** usi
 
 ---
 
-### ⚙️ Spatial Analysis Engine
+### Spatial Analysis Engine
 
 * Built using Shapely
 * Performs:
