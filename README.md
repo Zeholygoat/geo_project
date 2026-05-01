@@ -8,8 +8,7 @@ This project demonstrates how platforms similar to **DataMapWales** can automate
 
 ## 🚀 Live Demo
 
-👉 *(Add your Streamlit link here once deployed)*
-Example: `https://your-app.streamlit.app`
+👉 https://geoproject-csbewcr39rhc7d37yvwmf2.streamlit.app
 
 ---
 
