@@ -1,4 +1,4 @@
-# 🌍 DataMapWales AI Planning Assistant (Prototype)
+# 🌍 DataMapWales AI Planning Assistant (Prototype) BY Sadab 
 
 A **geospatial decision-support system** that simulates how planning authorities assess land suitability by analyzing environmental and legal constraints.
 
