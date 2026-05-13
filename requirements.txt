@@ -1,6 +1,9 @@
 streamlit
 shapely
 folium
+plotly
 pandas
 matplotlib
 reportlab
+branca
+jinja2
